@@ -9,7 +9,7 @@ This task demonstrates how to create a temporary user account in Linux and confi
 ## Architecture
 
 <p align="center">
-  <img src="images/temporary-user-setup.png" alt="Temporary User Setup" width="700"/>
+  <img src="../images/temporary-user-setup.png" alt="Temporary User Setup" width="700"/>
 </p>
 
 > **Note:** Save your diagram or screenshot inside an **images/** folder and name it **temporary-user-setup.png**.
@@ -75,12 +75,6 @@ Minimum number of days between password change : 0
 Maximum number of days between password change : 99999
 Number of days of warning before password expires : 7
 ```
-
-### Verification Screenshot
-
-<p align="center">
-  <img src="images/verification.png" alt="Verification Output" width="800"/>
-</p>
 
 ---
 
