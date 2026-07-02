@@ -202,4 +202,4 @@ appuser:x:1002:1002::/home/appuser:/bin/bash
 
 **Sakshi Upadhyay**
 
-DevOps | Linux | Docker | Kubernetes | AWS | CI/CD
+DevOps | Linux | Docker | Kubernetes | AWS | CI/CDshel
